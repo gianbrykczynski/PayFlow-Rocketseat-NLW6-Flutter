@@ -6,10 +6,10 @@
 
    <p>
    
-   - [Sobre 📖](#sobre-)
-   - [Layout 🎨](#layout-)
-   - [Arquivos no Notion 📋](#arquivo-no-notion-)
-   - [Como Usar 🤔](#como-usar-)
+   - [Sobre](#sobre-)
+   - [Layout](#layout-)
+   - [Arquivos no Notion](#arquivo-no-notion-)
+   - [Como Usar](#como-usar-)
 
    </p>
 
@@ -35,15 +35,17 @@ Imediatamente  tudo isso é atualizado na página inicial do app facilitando o g
 
    <p align="center">
       O Layout foi desenvolvido por <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, e você pode acessá-lo no Figma:
-   
-   - <a href="https://www.figma.com/file/kLK7FYnWKMoN68sQXcSniu/PayFlow">Mobile</a> 📱
    </p>
 
 ---
 
 <h2 align="center">Arquivo no Notion 📋</h2>
 
-- [Trilha | Flutter](https://www.notion.so/NLW-Together-Conte-dos-complementares-ae22125e899549efb2d4e360b5ee5ca3) 🚀
+<p>
+Acesse através do link o material de todas as aulas para entender melhor como foi realizada a construção de toda a aplicação.
+</p>
+
+- [Trilha | Flutter](https://www.notion.so/Mission-Flutter-9d2a1e0818b64b61bc5d9a0424f5c766) 🚀
 
 ---
 
