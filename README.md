@@ -67,11 +67,11 @@ Acesse através do link o material de todas as aulas para entender melhor como f
 
 ---
 
-   >Esse projeto foi desenvolvido com ❤️ na #NextLevelWeekTogether da **[Rocketseat  💜🚀](https://rocketseat.com.br/)**.<br> 
+   >Esse projeto foi desenvolvido durante a #NextLevelWeekTogether da **[Rocketseat  💜🚀](https://rocketseat.com.br/)**.<br> 
    **[Participe da nossa Comunidade! 👋](https://discordapp.com/invite/gCRAFhc)**.<br>
 
 ---
 
    <p align="center">
-      <img alt="NLW" title="PayFlow" src="https://1.bp.blogspot.com/-euISFVd5QxM/X679PMDKgOI/AAAAAAAAAsQ/e-iULkLb0eoJKXOhwXeZ9aPFJXDDvT_1gCLcBGAsYHQ/s16000/trilha.jpg" />
+      <img alt="NLW" title="Rocketseat" src="https://1.bp.blogspot.com/-euISFVd5QxM/X679PMDKgOI/AAAAAAAAAsQ/e-iULkLb0eoJKXOhwXeZ9aPFJXDDvT_1gCLcBGAsYHQ/s16000/trilha.jpg" />
    </p>
