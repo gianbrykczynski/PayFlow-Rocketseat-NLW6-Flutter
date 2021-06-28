@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="PayFlow" src="logofull.png" width="250px">
+  <img alt="PayFlow" src="https://github.com/gianbrykczynski/PayFlow-Rocketseat-NLW6-Flutter/blob/master/assets/images/logofull.png" width="250px">
 </p>
 
 <h2 align="center">Tópicos</h2>
