@@ -2,7 +2,7 @@
   <img alt="PayFlow" src="logofull.png" width="250px">
 </p>
 
-<h2 align="center">Tópicos 📋</h2>
+<h2 align="center">Tópicos</h2>
 
    <p>
    
