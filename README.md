@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="PayFlow" src=".github/payflow-logo.png" width="200px">
+  <img alt="PayFlow" src="logofull.png" width="200px">
 </p>
 
 <h2 align="center">Tópicos 📋</h2>
