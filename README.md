@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="PayFlow" src="logofull.png" width="200px">
+  <img alt="PayFlow" src="logofull.png" width="250px">
 </p>
 
 <h2 align="center">Tópicos 📋</h2>
@@ -15,7 +15,7 @@
 
 ---
 
-<h2 align="center">Sobre 📖</h2>
+<h2 align="center">Sobre</h2>
    
 <p>
 Sabemos que vivemos um momento de inúmeras transformações e que é imprescindível que tenhamos a tecnologia como nossa aliada durante nossas rotinas e atividades diárias. 
@@ -27,7 +27,7 @@ Imediatamente  tudo isso é atualizado na página inicial do app facilitando o g
 
 ---
 
-<h2 align="center">Layout 🎨</h2>
+<h2 align="center">Layout</h2>
 
    <p align="center">
       <img alt="PayFlow" title="PayFlow" src="https://pbs.twimg.com/media/E47QZ4rWUAYw_WF.jpg" />
@@ -39,7 +39,7 @@ Imediatamente  tudo isso é atualizado na página inicial do app facilitando o g
 
 ---
 
-<h2 align="center">Arquivo no Notion 📋</h2>
+<h2 align="center">Arquivo no Notion</h2>
 
 <p>
 Acesse através do link o material de todas as aulas para entender melhor como foi realizada a construção de toda a aplicação.
@@ -49,7 +49,7 @@ Acesse através do link o material de todas as aulas para entender melhor como f
 
 ---
 
-<h2 align="center">Como Usar 🤔</h2>
+<h2 align="center">Como Usar</h2>
 
    ```
    - Clone esse repositório:
@@ -73,5 +73,5 @@ Acesse através do link o material de todas as aulas para entender melhor como f
 ---
 
    <p align="center">
-      <img alt="NLW" title="PayFlow" src=".github/nlw.png" />
+      <img alt="NLW" title="PayFlow" src="https://1.bp.blogspot.com/-euISFVd5QxM/X679PMDKgOI/AAAAAAAAAsQ/e-iULkLb0eoJKXOhwXeZ9aPFJXDDvT_1gCLcBGAsYHQ/s16000/trilha.jpg" />
    </p>
