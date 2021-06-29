@@ -6,11 +6,11 @@
 
    <p>
    
-   - [Sobre](#sobre-)
+   - [Sobre](#Sobre)
    - [Layout](#Layout)
-   - [Demostração](#demostração-)
-   - [Arquivos no Notion](#arquivo-no-notion-)
-   - [Como Usar](#como-usar-)
+   - [Demostração](#Demostração)
+   - [Arquivos no Notion](#Arquivos-no-Notion)
+   - [Como Usar](#Como Usar)
 
    </p>
 
