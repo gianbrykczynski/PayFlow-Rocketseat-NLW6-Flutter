@@ -20,14 +20,18 @@
 ---
 
 <h2 align="center">Sobre</h2>
+
+<div align="justify">
    
-<p aling="center">
+ <p>
 Sabemos que vivemos um momento de inúmeras transformações e que é imprescindível que tenhamos a tecnologia como nossa aliada durante nossas rotinas e atividades diárias. 
 Levando isso em consideração o pagamento e gerenciamento das nossas contas e (Boletos) é algo de suma importância para mantermos a saúde financeira em dia. Observando esse contexto o projeto PayFlow foi desenvolvido durante o evento da NLW edição de número 6, e tem como base a construção de uma aplicação focada no gerenciamento de boletos de maneira rápida e fácil. 
 Usando a Inteligência Artificial podemos ler o código de barras de boletos e inserir as informações pertinentes ao pagamento como nome, data de vencimento, valor, e o código. 
 Imediatamente  tudo isso é atualizado na página inicial do app facilitando o gerenciamento das nossas contas. 
 
 </p>
+</div>
+
 
 ---
 
