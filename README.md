@@ -71,6 +71,10 @@ Acesse através do link o material de todas as aulas para entender melhor como f
    **[Participe da nossa Comunidade! 👋](https://discordapp.com/invite/gCRAFhc)**.<br>
 
 ---
+      <p align="center">
+      ![](https://github.com/gianbrykczynski/PayFlow-Rocketseat-NLW6-Flutter/blob/master/assets/images/payflow%20gif.gif)
+   </p>
+  
 
    <p align="center">
       <img alt="NLW" title="Rocketseat" src="https://1.bp.blogspot.com/-euISFVd5QxM/X679PMDKgOI/AAAAAAAAAsQ/e-iULkLb0eoJKXOhwXeZ9aPFJXDDvT_1gCLcBGAsYHQ/s16000/trilha.jpg" />
