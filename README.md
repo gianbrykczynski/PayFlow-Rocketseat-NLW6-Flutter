@@ -9,7 +9,7 @@
    - [Sobre](#Sobre)
    - [Layout](#Layout)
    - [Demostração](#Demostracao)
-   - [Arquivos no Notion](#Arquivos-no-Notion)
+   - [Notion](#Notion)
    - [Como Usar](#Como-Usar)
 
    </p>
