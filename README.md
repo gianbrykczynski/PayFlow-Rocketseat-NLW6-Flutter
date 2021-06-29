@@ -8,8 +8,8 @@
    
    - [Sobre](#Sobre)
    - [Layout](#Layout)
-   - [Demostração](#Demostração)
-   - [Arquivos no Notion](#Arquivos-no-Notion)
+   - [Demostração](#Demostracao)
+   - [Arquivos no Notion](#Arquivos-no-Notion-)
    - [Como Usar](#Como Usar)
 
    </p>
