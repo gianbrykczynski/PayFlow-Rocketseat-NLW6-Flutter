@@ -9,8 +9,11 @@
    - [Sobre](#Sobre)
    - [Layout](#Layout)
    - [Demosntração](#Demosntração-PayFlow)
-   - [Notion](#Notion)
+   - [Arquivos Notion](#Notion)
    - [Como Usar](#Como-Usar)
+   - [Autor do Projeto](#Autor)
+   - [Agradecimento](#Agradecimento)
+  
 
    </p>
 
@@ -76,12 +79,14 @@ Acesse através do link o material de todas as aulas para entender melhor como f
 
 ---
 
-   >Esse projeto foi desenvolvido durante a #NextLevelWeekTogether da **[Rocketseat  💜🚀](https://rocketseat.com.br/)**.<br> 
+<h2 align="center">Autor</h2>
+
+   >Esse projeto foi desenvolvido por **Gian Cristian Brykczynski** durante a #NextLevelWeekTogether da **[Rocketseat  💜🚀](https://rocketseat.com.br/)**.<br> 
    **[Participe da nossa Comunidade! 👋](https://discordapp.com/invite/gCRAFhc)**.<br>
 
 ---
 
-<h2 align="center">Agradecimento especial</h2>
+<h2 align="center">Agradecimento</h2>
 
 <p align="center">
   <img alt="NLW" title="Rocketseat" src="https://1.bp.blogspot.com/-euISFVd5QxM/X679PMDKgOI/AAAAAAAAAsQ/e-iULkLb0eoJKXOhwXeZ9aPFJXDDvT_1gCLcBGAsYHQ/s16000/trilha.jpg" />
