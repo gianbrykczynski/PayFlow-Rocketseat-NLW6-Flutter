@@ -39,6 +39,14 @@ Imediatamente  tudo isso é atualizado na página inicial do app facilitando o g
 
 ---
 
+<h2 align="center">Demosntração PayFlow</h2>
+
+  <p align="center">
+      <img alt="PayFlow" title="PayFlow" src="https://github.com/gianbrykczynski/PayFlow-Rocketseat-NLW6-Flutter/blob/master/assets/images/payflow%20gif.gif" />
+   </p>
+   
+---
+
 <h2 align="center">Arquivo no Notion</h2>
 
 <p>
@@ -71,14 +79,6 @@ Acesse através do link o material de todas as aulas para entender melhor como f
    **[Participe da nossa Comunidade! 👋](https://discordapp.com/invite/gCRAFhc)**.<br>
 
 ---
-
-<h2 align="center">Demosntração do App PayFlow</h2>
-
-  <p align="center">
-      <img alt="PayFlow" title="PayFlow" src="https://github.com/gianbrykczynski/PayFlow-Rocketseat-NLW6-Flutter/blob/master/assets/images/payflow%20gif.gif" />
-   </p>
-   
----   
 
 <h2 align="center">Agradecimento especial</h2>
 
