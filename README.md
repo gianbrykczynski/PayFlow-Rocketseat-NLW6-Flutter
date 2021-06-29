@@ -48,7 +48,7 @@ Imediatamente  tudo isso é atualizado na página inicial do app facilitando o g
    
 ---
 
-<h2 align="center">Arquivo no Notion</h2>
+<h2 align="center">Notion</h2>
 
 <p>
 Acesse através do link o material de todas as aulas para entender melhor como foi realizada a construção de toda a aplicação.
