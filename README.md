@@ -10,7 +10,7 @@
    - [Layout](#Layout)
    - [Demostração](#Demostracao)
    - [Arquivos no Notion](#Arquivos no Notion)
-   - [Como Usar](#Como Usar)
+   - [Como Usar](#Como-Usar)
 
    </p>
 
