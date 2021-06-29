@@ -7,7 +7,7 @@
    <p>
    
    - [Sobre](#sobre-)
-   - [Layout](#Layout-)
+   - [Layout](#Layout)
    - [Demostração](#demostração-)
    - [Arquivos no Notion](#arquivo-no-notion-)
    - [Como Usar](#como-usar-)
